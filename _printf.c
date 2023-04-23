@@ -11,8 +11,7 @@ int _printf(const char *format, ...)
 {
 	int i;
 	int printed = 0, printed_chars = 0;
-	int flags, width, precision, size;
-	int buff_ind = 0;
+	int flags, width, precision, size, buff_ind = 0;
 	va_list list;
 	char buffer[BUFF_SIZE];
 
