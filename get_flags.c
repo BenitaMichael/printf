@@ -6,6 +6,7 @@
  * @i: take a parameter
  * Return: returns flags
  */
+
 int get_flags(const char *format, int *i)
 {
 	int a;
