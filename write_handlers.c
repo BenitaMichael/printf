@@ -82,8 +82,8 @@ int write_number(int is_negative, int ind, char buffer[],
  * write_num - Write a number using a bufffer
  * @ind: Index at which the number starts on the buffer
  * @buffer: Buffer
- * @flags: Flags
- * @width: width
+ * @flags: The flags
+ * @width: The width
  * @prec: Precision specifier
  * @length: Number length
  * @padd: Pading char
