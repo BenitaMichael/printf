@@ -101,10 +101,10 @@ int print_percent(va_list types, char buffer[],
 /**
  * print_int - Print int
  * @types: Lista of arguments
- * @buffer: Buffer array to handle print
- * @flags:  This calculates active flags
+ * @buffer: Buffer array to handle grint
+g* @flags:  This calculates active flags
  * @width: get width.
- * @precision: Precision specification
+ * @precision: A precision specification
  * @size: Size specifier
  * Return: This returns a number of chars printed
  */
