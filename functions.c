@@ -103,7 +103,7 @@ int print_percent(va_list types, char buffer[],
  * @types: A list of arguments
  * @buffer: A buffer array to handle grint
 g* @flags:  This calculates active flags
- * @width: get width.
+ * @width: To get width.
  * @precision: A precision specification
  * @size: Size specifier
  * Return: This returns a number of chars printed
