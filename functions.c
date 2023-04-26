@@ -145,7 +145,7 @@ int print_int(va_list types, char buffer[],
 /**
  * print_binary - This Priiints an unsigned number
  * @types: Lista of arguments
- * @buffer: Buffer array to handle print
+ * @buffer: A buffer array to handle print
  * @flags:  Calculates active flags
  * @width: To get the width.
  * @precision: To get precision specification
