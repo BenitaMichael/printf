@@ -147,7 +147,7 @@ int print_int(va_list types, char buffer[],
  * @types: Lista of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
- * @width: get width.
+ * @width: To get the width.
  * @precision: To get precision specification
  * @size: Size specifier
  * Return: Numbers of char printed.
